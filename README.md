@@ -1,4 +1,4 @@
-# dash-test-structures
+# id, path, naming strategies
 
 
 Nested:
